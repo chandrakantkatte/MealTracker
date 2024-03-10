@@ -1,0 +1,51 @@
+.regform
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-size-adjust:auto; 
+    margin-bottom: 15%;
+   
+    /* border: 2px solid red; */
+
+      font-family: "Playfair Display", serif;
+      font-optical-sizing: auto;
+      font-weight: weight;
+      font-style: normal;
+    
+}
+.mdbcardbody3{
+    position: relative;
+    padding-left:4%;
+    padding-right: 4%;
+    width: 80%;
+    
+   
+}
+.mdbcardbody1 {
+    position: relative;
+    /* border: 2px solid red; */
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin: 7.5%;
+    background-image: url('https://cdn.pixabay.com/photo/2016/03/23/15/00/ice-cream-1274894_1280.jpg');
+    background-size: cover; /* Optional: Adjust to your needs */
+    background-position: center; /* Optional: Adjust to your needs */
+   
+}
+
+.flex-column-reverse {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .regform
+  {
+    display: flex;
+    justify-content: center;
+  }
+
+  
+  

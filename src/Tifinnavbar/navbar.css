@@ -1,0 +1,66 @@
+.navbarname.active
+{
+ color: rgb(22, 58, 190);
+}
+
+
+
+
+
+
+
+
+.bg-body-tertiar
+{
+  display: flex;
+ 
+  /* border: 2px solid #23be0e; */
+    background-color: #2680ce(10, 167, 60);
+   
+}
+
+
+  .ojuju-font {
+    font-family: "Ojuju", sans-serif;
+    font-optical-sizing: auto;
+     /* border: 1px solid #be0e0e;  */
+      letter-spacing: 3px;
+    padding: 0px 15px;
+    color: #37c786;
+    font-size: 30px;
+    
+    /* background-color: rgb(82, 121, 201); */
+    font-weight: 700; /* Replace with your desired font weight */
+    font-style: calc();
+  }
+
+  .navbarname
+  {
+    
+    color: #0b0606;
+    /* border: 2px solid #be0e0e; */
+    font-size: 17px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700; /* Replace with your desired font weight */
+    font-style: calc();
+   
+  }
+  .navbarname1  
+  {
+    gap: 35px;
+    /* border: 2px solid #FFF; */
+    /* margin-left: auto; */
+  }
+  #basic-navbar-nav
+  {
+    display: flex;
+    justify-content: flex-end;
+  
+    
+    /* border: 2px solid #FFF; */
+  }
+  
+
+
+

@@ -1,0 +1,72 @@
+.mainshow
+{
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    background-image: url('https://mdbcdn.b-cdn.net/img/Photos/new-templates/search-box/img4.webp');
+}
+
+
+
+
+
+
+.regform
+{
+    text-size-adjust:auto; 
+    margin-bottom: 10%;
+    /* border: 2px solid red; */
+    padding: 2%;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+      font-family: "Playfair Display", serif;
+      font-optical-sizing: auto;
+      font-weight: weight;
+      font-style: normal;
+    
+}
+.mdbcardbody{
+    position: relative;
+    padding-left:4%;
+    border: 2px solid blue;
+    padding-right: 4%;
+    width: 60%;
+   
+}
+.mdbcardbody2{
+    /* position: relative;
+
+    border: 2px solid red;
+    width: 40%;
+    margin:3%; */
+
+
+
+     position: relative;
+    border: 2px solid pink;
+   
+    width: 49%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+   
+    margin: 3%;
+    background-image: url('https://media.istockphoto.com/id/1337466740/photo/indian-fasting-cuisine-upwas-items-thali-complere-meal-for-vrat-ekadashi-upawas-thali-meal.jpg?s=2048x2048&w=is&k=20&c=lckynBlwii3ECFVQKKZ3FCUIc_CqxSKduwAyAx7giHQ=');
+    background-size: cover; /* Optional: Adjust to your needs */
+    background-position: center; /* Optional: Adjust to your needs */
+}
+
+.flex-column-reverse {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+.flex-column-reverse
+{
+    margin: 4%;
+}
+  
+  
